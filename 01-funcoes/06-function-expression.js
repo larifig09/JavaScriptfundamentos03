@@ -6,7 +6,7 @@ const somarAnonima = function (a, b){
     return a + b;
 }
 
-const somarArrowFuction = (10,5) => {
+const somarArrowFuction = (b, a) => {
     return a + b;
 }
 
